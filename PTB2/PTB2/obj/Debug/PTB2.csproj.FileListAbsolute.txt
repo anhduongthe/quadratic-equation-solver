@@ -1,0 +1,10 @@
+D:\Work\New folder\PTB2\PTB2\bin\Debug\PTB2.exe.config
+D:\Work\New folder\PTB2\PTB2\bin\Debug\PTB2.exe
+D:\Work\New folder\PTB2\PTB2\bin\Debug\PTB2.pdb
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.csprojAssemblyReference.cache
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.Form1.resources
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.Properties.Resources.resources
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.csproj.GenerateResource.cache
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.csproj.CoreCompileInputs.cache
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.exe
+D:\Work\New folder\PTB2\PTB2\obj\Debug\PTB2.pdb
